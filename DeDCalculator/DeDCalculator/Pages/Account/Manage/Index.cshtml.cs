@@ -9,6 +9,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using DeDCalculator.Data;
 using DeDCalculator.Services;
+using DeDCalculator.Data.DAL;
 
 namespace DeDCalculator.Pages.Account.Manage
 {

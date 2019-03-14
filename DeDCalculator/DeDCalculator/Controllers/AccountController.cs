@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using DeDCalculator.Data;
+using DeDCalculator.Data.DAL;
 
 namespace DeDCalculator.Controllers
 {

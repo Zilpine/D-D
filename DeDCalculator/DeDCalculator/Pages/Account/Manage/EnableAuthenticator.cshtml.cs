@@ -11,6 +11,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.Extensions.Logging;
 using DeDCalculator.Data;
+using DeDCalculator.Data.DAL;
 
 namespace DeDCalculator.Pages.Account.Manage
 {
